@@ -5,4 +5,39 @@
 h1{
     text-align: center;
 }
-box
+.flex1{
+    background-color: rgb(230, 205, 218);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin: 24px 0px;
+}
+.flex2{
+    background-color: rgb(134, 90, 98);
+    width: 1000px;
+    height: 300px;
+    margin:  24px 165px;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+img{
+    width: 300px;
+    height: 290px;
+    margin: 4px 15px;
+    border-radius: 10px;    
+}
+p{
+    font-size: 32px;
+    text-align: center;
+}
+.flex-3{
+    background-color: rgb(218, 188, 150);
+    width: 1000px;
+    height: 300px;
+    margin:  24px 165px;
+    justify-content: space-between;
+    border-radius: 10px;
+}
